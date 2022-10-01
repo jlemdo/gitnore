@@ -1,3 +1,4 @@
-src/fonts
-src/sccs
-**.json
+/src/fonts
+/src/sccs
+/node_modules
+*.json
